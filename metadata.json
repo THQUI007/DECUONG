@@ -1,0 +1,6 @@
+{
+  "name": "Công cụ tạo đề cương Toán theo chương từ PDF",
+  "description": "Ứng dụng hỗ trợ giáo viên Toán tạo đề cương ôn tập theo chương từ nội dung nhiều file PDF bài học, kèm lý thuyết, công thức, bài tập tự luyện và đáp án, xuất file Word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
